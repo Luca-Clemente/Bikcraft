@@ -8,7 +8,8 @@
    <a href="#plugins">Plugins</a> •
    <a href="#aprendizado">O que eu aprendi?</a> •
 </p>
-<video width="320" height="240" controls>
-  <source src="/videos/bikcraft-gif.mp4" type="video/mp4">
-  <source src="/videos/bikcraft-responsivo-gif.mp4" type="video/mp4>
-</video>
+
+<h2 id="objetivo">
+ 
+
+</h2>
