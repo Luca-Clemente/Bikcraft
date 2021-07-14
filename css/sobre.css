@@ -1,0 +1,56 @@
+.bg-sobre{
+    background:url("../img/bg-sobre.jpg") no-repeat center;
+    background-size:cover;
+}
+.introducao-sobre h1{
+     color:#fff;
+     font-size: 48px;
+     font-weight: bold;
+    text-transform: uppercase;
+    
+}
+.introducao-sobre h1:after{
+    content: " ";
+    display: block;
+    width:60px;
+    height:3px;
+    background:#fff;
+    margin: 6px auto 10px auto;
+}
+.missao-visao-valores{
+    padding-top:60px;
+}
+.missao-visao-valores p {
+    font-size:18px;
+    line-height:25px;
+    margin-bottom:1em;
+    padding-right: 60px;
+}
+
+.missao-visao-valores ul li{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    line-height: 30px;
+}
+.img-bikes{
+    padding-top:20px;
+}
+
+.subtitulo-interno{
+    font-weight: bold;
+    font-size:24px;
+    line-height:30px;
+    letter-spacing: .1em;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom:20px;
+
+}
+.subtitulo-interno:after{
+    content:"";
+    display:block;
+    width: 60px;
+    height:3px;
+    background:#000;
+    margin: 8px 0;
+}

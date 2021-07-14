@@ -1,0 +1,106 @@
+.bg-contato{
+    background:url("../img/bg-contato.jpg") no-repeat center;
+    background-size:cover;
+}
+.introducao-contato h1{
+    color:#fff;
+    font-size: 48px;
+    font-weight: bold;
+   text-transform: uppercase;
+   
+    
+}
+.introducao-contato h1::after{
+    content: " ";
+    display: block;
+    width:60px;
+    height:3px;
+    background:#fff;
+    margin: 6px auto 10px auto;
+}
+
+/*
+Orçamento
+*/
+.contato{
+    padding:40px 0;
+}
+
+.contato-formulario{
+    padding-right: 60px;
+}
+.contato-formulario label{
+    display:block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height:25px;
+    margin-bottom: 4px;
+}
+.contato-formulario input{
+    display:block;
+    width:100%;
+    border: 3px solid #fec63e;
+    background:none;
+    padding: 7px 10px;
+    outline:none;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+.contato-formulario  textarea{
+    display:block;
+    width:100%;
+    height: 120px;
+    border: 3px solid #fec63e;
+    background:none;
+    padding: 7px 10px;
+    outline:none;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.contato-formulario button{
+    background:none;
+    padding: 7px 40px;
+}
+.contato-formulario button:hover{
+    color:#000;
+    border-color: #000;
+    cursor: pointer;
+}
+.contato-dados{
+    color: #fff;
+}
+.contato-dados h3{
+    font-size: 18px;
+    color:#fec63e;
+    text-transform: uppercase;
+    line-height: 25px;
+    font-weight: bold;
+}
+.contato-dados span{
+    display:block;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height:30px;
+    color:#000;
+}
+.contato-dados span:last-of-type{
+    margin-bottom: 40px;
+}
+.contato-dados ul li{
+    display:inline-block;
+    border: 3px solid #fec63e;
+    padding: 10px;
+    margin-right: 10px;
+}
+ .contato-dados ul li:hover{
+    border-color:#000;
+    cursor: pointer;
+}
+.contato-dados ul{
+    margin-top: 10px;
+}
+.mapa{
+    margin-bottom:60px;
+}
