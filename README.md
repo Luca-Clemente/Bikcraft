@@ -9,6 +9,11 @@
    <a href="#aprendizado">O que eu aprendi?</a> •
 </p>
 <img src="./videos/home.gif">
+<img src="./videos/sobre.gif">
+<img src="./videos/portfolio.gif">
+<img src="./videos/produtos.gif">
+<img src="./videos/contato.gif">
+<img src="./videos/responsivo.gif">
 
 <h2 id="objetivo">
  
