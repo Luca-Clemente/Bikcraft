@@ -11,9 +11,9 @@
 
   <img src="./videos/home.gif">  <br>
   <img src="./videos/sobre.gif"> <br>
-  <img src="./videos/portfolio.gif"><br>
+  <img src="./videos/portfolio.gif"> <br>
    <img src="./videos/produtos.gif"> <br>
-  <img src="./videos/contato.gif"> <br>
+  <img src="./videos/contato.gif">  <br>
    <img src="./videos/responsivo.gif">
 
 <h2 id="objetivo">Objetivo</h2>
