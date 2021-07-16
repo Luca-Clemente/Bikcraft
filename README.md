@@ -8,7 +8,7 @@
    <a href="#plugins">Plugins</a> •
    <a href="#aprendizado">O que eu aprendi?</a> •
 </p>
-<img src="./videos/home.gif" width="1000px" height="1000px">
+<img src="./videos/home.gif" width="1200px" height="1000px">
 <img src="./videos/sobre.gif">
 <img src="./videos/portfolio.gif">
 <img src="./videos/produtos.gif">
