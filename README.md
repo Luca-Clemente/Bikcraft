@@ -9,12 +9,12 @@
    <a href="#aprendizado">O que eu aprendi?</a> •
 </p>
 <div style="display: flex;">
-<img src="./videos/home.gif"> <br>
-<img src="./videos/sobre.gif"> <br>
-<img src="./videos/portfolio.gif"> <br>
-<img src="./videos/produtos.gif"> <br>
-<img src="./videos/contato.gif"> <br>
-<img src="./videos/responsivo.gif"> 
+   <div><img src="./videos/home.gif"> </div> <br>
+   <div><img src="./videos/sobre.gif"></div> <br>
+   <div><img src="./videos/portfolio.gif"></div> <br>
+   <div><img src="./videos/produtos.gif"></div> <br>
+   <div><img src="./videos/contato.gif"></div> <br>
+   <div><img src="./videos/responsivo.gif"></div> 
 </div>
 <h2 id="objetivo">Objetivo</h2>
 <p> Esse website pertencia fez parte de uma gama de aulas de web design. Nessas aulas eu aprendi um pouco sobre design, arquitetura da informação e claro, o código. Ele tinha o objetivo de apresentar os conceitos e fundamentos de web design.</p>
