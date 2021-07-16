@@ -23,6 +23,5 @@
 </h2>
 
 <h2 id="aprendizado">
-   <p> </p>
-
+   <p>Aprendi a usar floats e,além disso, as etapas necessárias até construir um site de fato. Eu também nunca havia utilizado o normalize e esse clearfix. O design também foi feito no adobe xd então pude aprender essa ferramenta também! Agora eu criarei minhas próprias interfaces 🤓</p>
 </h2>
