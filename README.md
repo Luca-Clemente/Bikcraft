@@ -8,6 +8,7 @@
    <a href="#plugins">Plugins</a> •
    <a href="#aprendizado">O que eu aprendi?</a> •
 </p>
+<img src="./videos/home.gif">
 
 <h2 id="objetivo">
  
